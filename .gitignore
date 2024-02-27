@@ -1,0 +1,4 @@
+json_files/*.json
+__pycache__\*
+__pycache__/vk.cpython-311.pyc
+__pycache__/yandex.cpython-311.pyc
